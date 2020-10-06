@@ -47,13 +47,13 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-them
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-netgearv2
 svn co https://github.com/rosywrt/luci-theme-rosy/trunk/luci-theme-rosy
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-unblockmusic
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/UnblockNeteaseMusic
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/UnblockNeteaseMusicGo
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/adbyby
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/baidupcs-web
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-baidupcs-web
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-adbyby-plus
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-airplay2
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusic
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusicGo
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/adbyby
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/baidupcs-web
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-baidupcs-web
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-adbyby-plus
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-airplay2
 svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom
 svn co https://github.com/cnzd/luci-app-koolproxyR/trunk ./luci-app-koolproxyR
 svn co https://github.com/MiRouter/luci-app-vssr-plus/trunk ./luci-app-vssr-plus
@@ -83,20 +83,20 @@ cp -r ./luci-app-atinout/atinout ./
 svn co https://github.com/muink/luci-app-pcap-dnsproxy/branches/dev ./luci-app-pcap-dnsproxy
 svn co https://github.com/koshev-msk/3proxy-openwrt/trunk ./3proxy
 svn co https://github.com/pexcn/openwrt-chinadns-ng/branches/luci ./luci-app-chinadns-ng
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-usb-printer
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-ramfree
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-ttyd
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-unblockmusic
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-vlmcsd
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/vlmcsd
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-vsftpd
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-xlnetacc
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-frpc
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/frp
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-frps
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/ddns-scripts_aliyun
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/ddns-scripts_dnspod
-svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-cifs-mount
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-usb-printer
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ramfree
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-ttyd
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-unblockmusic
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-vlmcsd
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/vlmcsd
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-vsftpd
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-xlnetacc
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-frpc
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/frp
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-frps
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ddns-scripts_aliyun
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ddns-scripts_dnspod
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-cifs-mount
 
 rm -rf ./*/.git
 rm -rf ./*/.svn
