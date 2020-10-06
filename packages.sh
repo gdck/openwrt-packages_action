@@ -46,6 +46,7 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-them
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-infinityfreedom
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw/luci-theme-netgearv2
 svn co https://github.com/rosywrt/luci-theme-rosy/trunk/luci-theme-rosy
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-unblockmusic
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/UnblockNeteaseMusic
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/UnblockNeteaseMusicGo
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/adbyby
@@ -94,7 +95,7 @@ svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-fr
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/frp
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-frps
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/ddns-scripts_aliyun
-svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ddns-scripts_dnspod
+svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/ddns-scripts_dnspod
 svn co https://github.com/coolsnowwolf/lede/tree/master/package/lean/luci-app-cifs-mount
 
 rm -rf ./*/.git
