@@ -1,4 +1,5 @@
 #!/bin/bash
+svn co https://github.com/brvphoenix/luci-app-wrtbwmon/trunk/luci-app-wrtbwmon
 svn co https://github.com/kenzok8/openwrt-packages/trunk/adguardhome
 svn co https://github.com/project-openwrt/openwrt/branches/master/package/ctcgfw/gost
 svn co https://github.com/rufengsuixing/luci-app-adguardhome/trunk ./luci-app-adguardhome
