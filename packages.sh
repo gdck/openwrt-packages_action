@@ -26,7 +26,7 @@ svn co https://github.com/xiaorouji/openwrt-package/trunk/others ./
 rm -rf .svn
 svn co https://github.com/xiaorouji/openwrt-package/trunk/package ./
 rm -rf .svn
-svn co https://github.com/brvphoenix/luci-app-wrtbwmon-zh/trunk ./luci-app-wrtbwmon
+svn co https://github.com/brvphoenix/luci-app-wrtbwmon/trunk/luci-app-wrtbwmon
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-argon_new
