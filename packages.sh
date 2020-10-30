@@ -57,6 +57,11 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/automount
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/autosamba
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/baidupcs-web
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/coremark
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/dsmboot
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/fast-classifier
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/ipv6-helper
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-arpbind
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-amule
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-baidupcs-web
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-adbyby-plus
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-airplay2
