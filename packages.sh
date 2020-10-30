@@ -51,10 +51,16 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-unblockm
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusic
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/UnblockNeteaseMusicGo
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/adbyby
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/amule
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/antileech
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/automount
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/autosamba
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/baidupcs-web
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/coremark
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-baidupcs-web
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-adbyby-plus
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-airplay2
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/default-settings
 svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom
 svn co https://github.com/cnzd/luci-app-koolproxyR/trunk ./luci-app-koolproxyR
 svn co https://github.com/MiRouter/luci-app-vssr-plus/trunk ./luci-app-vssr-plus
