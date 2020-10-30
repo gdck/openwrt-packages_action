@@ -65,7 +65,7 @@ svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-amule
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-baidupcs-web
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-adbyby-plus
 svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/luci-app-airplay2
-#svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/default-settings
+svn co https://github.com/coolsnowwolf/lede/trunk/package/lean/default-settings
 svn co https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom/trunk/luci-theme-infinityfreedom
 svn co https://github.com/cnzd/luci-app-koolproxyR/trunk ./luci-app-koolproxyR
 svn co https://github.com/MiRouter/luci-app-vssr-plus/trunk ./luci-app-vssr-plus
