@@ -29,6 +29,7 @@ rm -rf .svn
 svn co https://github.com/brvphoenix/luci-app-wrtbwmon/trunk/luci-app-wrtbwmon
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-smartdns
 svn co https://github.com/kenzok8/openwrt-packages/trunk/smartdns
+svn co  https://github.com/QQ466005858/NUC980-OpenWrt-LEDE/trunk/package/app/luci-app/luci-app-ser2net
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-argon_new
 svn co https://github.com/kenzok8/luci-theme-ifit/trunk/luci-theme-ifit
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-theme-atmaterial
